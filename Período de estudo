@@ -1,0 +1,15 @@
+print(''' Escolha qual turno você estuda
+            [ M ]
+            [ V ]
+            [ N ]
+''')
+turno = str(input('Qual turno que você estuda?')).upper()
+if turno == 'M':
+    print('Bom dia!')
+elif turno == 'V':
+    print('Boa tarde')
+elif turno == 'N':
+    print('Boa noite!')
+else:
+    print('Opção inválida')
+
