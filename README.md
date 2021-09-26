@@ -1,2 +1,2 @@
-# Periodo de Estudo
+# Período de Estudo
  
